@@ -1,5 +1,4 @@
 # spotify-dashboard
-Spotify 대시보드 프로젝트를 위한 `README.md` 파일 예시입니다. 이 내용을 프로젝트 루트 폴더에 작성하시면 됩니다.
 
 ```markdown
 # 🎵 Spotify DashBoard Project
